@@ -245,7 +245,7 @@ a.nav-link{
     
 #contact p{
     padding:10px;
-    text-align: justify;
+    text-align: left;
     font-size:1.2rem;
     font-family: var(--main-font-family);
     margin-left: 50px;
